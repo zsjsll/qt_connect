@@ -36,3 +36,5 @@
 /.vs/config
 /Debug
 /.vs
+/connect.VC.VC.opendb
+/connect.VC.db
