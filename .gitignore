@@ -29,12 +29,9 @@
 *.app
 /x64/Debug
 /GeneratedFiles
-/bracket-turntable.VC.db
-/bracket-turntable.VC.VC.opendb
-/.vs/bracket-turntable/v14
+*.VC.db
+*.VC.VC.opendb
 /x64/Release
-/.vs/config
 /Debug
 /.vs
-/connect.VC.VC.opendb
-/connect.VC.db
+
